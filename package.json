@@ -56,5 +56,8 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "broadcast-channel": "^3.3.0"
   }
 }
