@@ -44,7 +44,7 @@ module.exports = function(environment) {
   }
 
   if (environment === 'production') {
-    ENV.rootURL = "/ember-multi-tabs-experiment"
+    ENV.rootURL = '/ember-multi-tabs-experiment'
     // here you can enable a production-specific feature
   }
 
