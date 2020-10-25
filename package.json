@@ -63,7 +63,7 @@
     "broadcast-channel": "^3.3.0"
   },
   "ember-addon":{
-  "demoURL":"https://github.com/makannew/ember-multi-tabs-experiment"
+    "demoURL":"https://github.com/makannew/ember-multi-tabs-experiment"
   }
 
 }
